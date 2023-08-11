@@ -767,6 +767,11 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
+"@instana/react-native-agent@^1.10.0":
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/@instana/react-native-agent/-/react-native-agent-1.12.1.tgz#d0dbc988304eacf9f1b87fc7294fd9c1d648b575"
+  integrity sha512-+nPHE5ar6Z3X0oHLN7EalWdkSEtYmLO4PCsuDMAU/KhFKKIZBlWqLAPhg7uYh7rpNztpN0jdh4r8ddrVL611rQ==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
